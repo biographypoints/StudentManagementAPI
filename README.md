@@ -240,10 +240,6 @@ Open in Visual Studio / VS Code
 
 Run the project
 
-Open Swagger:
-
-https://localhost:5001/swagger
-
 📌 Final Note
 
 This project is a simple demo designed for learning how a real API is structured.
